@@ -4,7 +4,7 @@ A passionate and hard-working health data scientist.
 > anna0610a@gmail.com
 > Taipei. Taiwan.
 
-![Anna NY Tung](https://github.com/annatung/Anna-Tung/blob/gh-pages/Anna.JPG)
+![Anna NY Tung](https://github.com/annatung/Anna-Tung/raw/gh-pages/Anna.JPG)
 
 
 ### Research Experience
