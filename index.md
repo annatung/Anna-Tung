@@ -1,6 +1,19 @@
 ## About Anna Nai-Yun Tung
 
 A passionate and hard-working health data scientist.
+> anna0610a@gmail.com
+> Taipei. Taiwan.
+
+![Anna NY Tung](anna.jpg "Anna NY Tung")
+
+
+### Research Experience
+
+### Education
+
+### Awards and Work Experience
+
+More infomration, please click the Anna's CV.
 
 ### Markdown
 
